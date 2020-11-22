@@ -19,7 +19,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 const db = require("./app/models");
 
 db.sequelize.sync();
-
+//sdafadsf
 app.get('/', function (req,res) {
   res.sendFile(path + "index.html");
 });
