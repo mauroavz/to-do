@@ -4,6 +4,12 @@
 
 https://to-dos-tareas.herokuapp.com/
 
+## Ver api en heroku
+https://mytareas.herokuapp.com/
+
+## Git Api
+https://github.com/mauroavz/apitodos
+
 ## Project setup
 ```
 npm install
